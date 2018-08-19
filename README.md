@@ -1,2 +1,2 @@
 # servicosonlineautonomos
-site de profissionais autonomos
+site de profissionais autônomos
